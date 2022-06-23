@@ -6,7 +6,7 @@
 }
 
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-    background: url(disconnected.png);
+    background: url();
 }
 
 
