@@ -5,10 +5,6 @@
     width: 866px;
 }
 
-.custom.disconnected { /* This class shows an image when the controller is disconnected */
-    background: url();
-}
-
 
 .custom .triggers { /* The triggers are housed inside a div, so this sizes the div properly and positions it */
     width: 581px;
