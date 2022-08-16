@@ -1,3 +1,6 @@
+#sleek-button{
+     display: none;
+}
 
 .controller.custom {
     background: url(base.png); 
